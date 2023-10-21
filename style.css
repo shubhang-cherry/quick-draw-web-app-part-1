@@ -1,0 +1,21 @@
+body {
+    background-color: blueviolet;
+}
+
+#score {
+    font-size: 40;
+    float: left;
+    margin-right: 490 ;
+}
+
+#timer {
+    font-size: 40;
+    float:right;
+    margin-right: 10;
+}
+
+#sketch_to_be_drawn {
+color: gold;
+font-size: larger;
+margin-left: -400; 
+}
